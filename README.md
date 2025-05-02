@@ -24,7 +24,7 @@ Sou Thiago Carvalho, desenvolvedor Front-End com experiência em projetos modern
 Também tenho vivência como desenvolvedor Full Stack, trabalhando com **.NET (C#)**, **Dapper** e **SQL Server**, além da manutenção de sistemas legados com **ASP.NET** e **Visual Basic (WebForms)**. Tenho paixão por usabilidade, boas práticas e melhoria contínua. 💡
 
 🎓 Bacharel em Ciência da Computação pelo Centro Universitário de João Pessoa (UNIPÊ).  
-🌎 Localizado em João Pessoa – PB, Brasil.  
+🌎 Localizado em Guarabira – PB, Brasil.  
 📫 Entre em contato: [carvalho159263@gmail.com](mailto:carvalho159263@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-carvalho-ss/)
 
